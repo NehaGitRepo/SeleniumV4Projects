@@ -24,4 +24,4 @@ login_button.click()
 
 success_element = driver.find_element(By.CSS_SELECTOR,".title")
 assert success_element.text == "Products"
-
+driver.quit()
