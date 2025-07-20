@@ -43,3 +43,5 @@ for option in select.options:
 #     print("Test cases passed, count is correct")
 # else:
 #     print("Test cases failed, Count is incorrect")
+
+driver.quit()
