@@ -23,3 +23,4 @@ if broken_images:
         print(broken_image)
 else:
     print("No broken image found")
+driver.quit()
